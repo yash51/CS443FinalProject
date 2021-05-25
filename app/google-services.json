@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "741853883837",
+    "firebase_url": "https://smart-calculater-a8d23.firebaseio.com",
+    "project_id": "smart-calculater-a8d23",
+    "storage_bucket": "smart-calculater-a8d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741853883837:android:3c06fa3d2e3046d373b6d4",
+        "android_client_info": {
+          "package_name": "com.kit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741853883837-smbtgdocfsvtue7e0t3shb1olu9nrd6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASHixRRoN1D33dGfuqIiLgiJ1aPgx2qW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741853883837-smbtgdocfsvtue7e0t3shb1olu9nrd6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741853883837:android:0fcc674c3b62e67073b6d4",
+        "android_client_info": {
+          "package_name": "g.o.gotechpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741853883837-dnr4l2khhe17hpdmnlifqi75dvb15g5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g.o.gotechpos",
+            "certificate_hash": "1060f6d787ac8ca08802afb65a6b2bd367f1881a"
+          }
+        },
+        {
+          "client_id": "741853883837-smbtgdocfsvtue7e0t3shb1olu9nrd6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASHixRRoN1D33dGfuqIiLgiJ1aPgx2qW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741853883837-smbtgdocfsvtue7e0t3shb1olu9nrd6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8853847321207681~3601603709"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741853883837:android:83ac4af94343468d73b6d4",
+        "android_client_info": {
+          "package_name": "g.p.smartcalculater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741853883837-5sj92shnmaa498i7r4b1jvmlt932bk56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g.p.smartcalculater",
+            "certificate_hash": "1060f6d787ac8ca08802afb65a6b2bd367f1881a"
+          }
+        },
+        {
+          "client_id": "741853883837-smbtgdocfsvtue7e0t3shb1olu9nrd6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASHixRRoN1D33dGfuqIiLgiJ1aPgx2qW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741853883837-smbtgdocfsvtue7e0t3shb1olu9nrd6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

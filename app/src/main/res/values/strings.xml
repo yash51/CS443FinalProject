@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Parrot</string>
+    <string name="text" >
+        "
+        Text to speech - click on the Text to speech tab to enter the text and click on submit button to convert to speech.
+        \n\n
+        Add PDF: click on the Add PDF tab and select the pdf from the local files or drive and upload
+        \n\n
+        Add Image : For Add Image click on Add Image and you can upload from Gallery or Camera
+        \n
+
+        "
+    </string>
+</resources>
